@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Pagina-De-Presentacion/static/css/main.008b83f0.css",
+    "main.js": "/Pagina-De-Presentacion/static/js/main.73abc4b7.js",
+    "static/js/787.32aec9ac.chunk.js": "/Pagina-De-Presentacion/static/js/787.32aec9ac.chunk.js",
+    "static/media/FotoPresentacion.jpeg": "/Pagina-De-Presentacion/static/media/FotoPresentacion.806e2068c4e8d879d8d2.jpeg",
+    "static/media/CV - Muñoz González Daniel Aurelio.pdf": "/Pagina-De-Presentacion/static/media/CV - Muñoz González Daniel Aurelio.97191b2b76a9fd438ae5.pdf",
+    "index.html": "/Pagina-De-Presentacion/index.html",
+    "main.008b83f0.css.map": "/Pagina-De-Presentacion/static/css/main.008b83f0.css.map",
+    "main.73abc4b7.js.map": "/Pagina-De-Presentacion/static/js/main.73abc4b7.js.map",
+    "787.32aec9ac.chunk.js.map": "/Pagina-De-Presentacion/static/js/787.32aec9ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008b83f0.css",
+    "static/js/main.73abc4b7.js"
+  ]
+}
