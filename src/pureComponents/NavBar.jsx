@@ -1,4 +1,4 @@
-import CVpdf from "../assets/CV - Muñoz González Daniel Aurelio.pdf"
+import CVpdf from "../assets/docs/CV - Muñoz González Daniel Aurelio.pdf"
 
 export default function NavBar(){
     return(
@@ -7,11 +7,13 @@ export default function NavBar(){
             <a className="bg-secAmar w-[10%]" href={CVpdf} target="_blank" download={CVpdf} rel="noreferrer">
                 <div >
                     Descargar CV
-                    ahhhhhhhh
-                    aaaaaaaaaaa
-                    
                 </div>
             </a>
+            <a className="bg-secAmar w-[10%]" href={CVpdf} target="_blank" download={CVpdf} rel="noreferrer">
+                <div >
+                    Descargar Llave pública, por mientras solo muestra el CV
+                </div>
+            </a>            
         </div>
     );
 }
