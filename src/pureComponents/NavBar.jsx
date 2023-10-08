@@ -7,6 +7,9 @@ export default function NavBar(){
             <a className="bg-secAmar w-[10%]" href={CVpdf} target="_blank" download={CVpdf} rel="noreferrer">
                 <div >
                     Descargar CV
+                    ahhhhhhhh
+                    aaaaaaaaaaa
+                    
                 </div>
             </a>
         </div>
