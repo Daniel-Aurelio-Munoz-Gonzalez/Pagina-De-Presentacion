@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Pagina-De-Presentacion/static/css/main.6acda609.css",
-    "main.js": "/Pagina-De-Presentacion/static/js/main.66a3936b.js",
+    "main.css": "/Pagina-De-Presentacion/static/css/main.fe34b17c.css",
+    "main.js": "/Pagina-De-Presentacion/static/js/main.0d4300c2.js",
     "static/js/787.32aec9ac.chunk.js": "/Pagina-De-Presentacion/static/js/787.32aec9ac.chunk.js",
     "static/media/DMSans-Italic-VariableFont_opsz,wght.ttf": "/Pagina-De-Presentacion/static/media/DMSans-Italic-VariableFont_opsz,wght.5d62d0b1d463691eba69.ttf",
     "static/media/DMSans-VariableFont_opsz,wght.ttf": "/Pagina-De-Presentacion/static/media/DMSans-VariableFont_opsz,wght.90130db6a4fc53f17a88.ttf",
@@ -10,12 +10,12 @@
     "static/media/SIFONN_BASIC.otf": "/Pagina-De-Presentacion/static/media/SIFONN_BASIC.2abe78089e1342cf872c.otf",
     "static/media/resulta.svg": "/Pagina-De-Presentacion/static/media/resulta.061a9e8d92c3fdffef6d8dd81ce0a1d8.svg",
     "index.html": "/Pagina-De-Presentacion/index.html",
-    "main.6acda609.css.map": "/Pagina-De-Presentacion/static/css/main.6acda609.css.map",
-    "main.66a3936b.js.map": "/Pagina-De-Presentacion/static/js/main.66a3936b.js.map",
+    "main.fe34b17c.css.map": "/Pagina-De-Presentacion/static/css/main.fe34b17c.css.map",
+    "main.0d4300c2.js.map": "/Pagina-De-Presentacion/static/js/main.0d4300c2.js.map",
     "787.32aec9ac.chunk.js.map": "/Pagina-De-Presentacion/static/js/787.32aec9ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6acda609.css",
-    "static/js/main.66a3936b.js"
+    "static/css/main.fe34b17c.css",
+    "static/js/main.0d4300c2.js"
   ]
 }
