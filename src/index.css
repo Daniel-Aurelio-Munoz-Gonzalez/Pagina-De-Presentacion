@@ -22,3 +22,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'DMSansIt';
+  src: url('./fonts/DMSans-Italic-VariableFont_opsz\,wght.ttf');
+}
+
+@font-face {
+  font-family: 'DMSans';
+  src: url('./fonts/DMSans-VariableFont_opsz\,wght.ttf');
+}
+
+@font-face {
+  font-family: 'Sifonn';
+  src: url('./fonts/SIFONN_BASIC.otf');
+}
