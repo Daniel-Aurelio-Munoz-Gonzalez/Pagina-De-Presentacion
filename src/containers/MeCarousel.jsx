@@ -28,27 +28,27 @@ export default function MeCarousel(){
                 className="carouselAboutMe">
 
                 <SwiperSlide>
-                    <div className='flex flex-col justify-center items-center h-full w-full pl-1 sm:pl-4 text-center'>
+                    <div className='flex flex-col justify-center items-center h-full w-full pl-1 sm:pl-4 text-center text-xl'>
                         <p>Alumno de séptimo semestre en "Ingeniería en Sistemas Computacionales" en la Escuela Superior de Cómputo, del Instituto Poltécnico Nacional.</p>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <div className='flex flex-col justify-center items-center text-center h-full w-full pl-1 sm:pl-4'>
+                    <div className='flex flex-col justify-center items-center text-center h-full w-full pl-1 sm:pl-4 text-xl'>
                         <p>Orientado a titularme con especialización en minería de datos y criptografía, disciplinas enfocadas en la obtención y protección de datos.</p>
                     </div>
                 </SwiperSlide>             
                 <SwiperSlide>
-                    <div className='flex flex-col justify-center items-center text-center h-full w-full pl-1 sm:pl-4'>
+                    <div className='flex flex-col justify-center items-center text-center h-full w-full pl-1 sm:pl-4 text-xl'>
                         <p>Una persona con diversas áreas de oportunidad pero con la motivación y disciplina necesarias para lograr superar las adversidades que se me presentan.</p>
                     </div>
                 </SwiperSlide>             
                 <SwiperSlide>
-                    <div className='flex flex-col justify-center items-center text-center h-full w-full pl-1 sm:pl-4'>
+                    <div className='flex flex-col justify-center items-center text-center h-full w-full pl-1 sm:pl-4 text-xl'>
                         <p>Entusiasta del desarrollo web, más de 6 meses de experiencia trabajando en el desarrollo de este tipo de aplicaciones, enfocado en la parte frontend.</p>
                     </div>
                 </SwiperSlide>
                 <SwiperSlide>
-                    <div className='flex flex-col justify-center items-center text-center h-full w-full pl-1 sm:pl-4'>
+                    <div className='flex flex-col justify-center items-center text-center h-full w-full pl-1 sm:pl-4 text-xl'>
                         <p>Una persona con gran ambición y ganas de superación, comprometido con desarrollar una perspectiva multidisciplinaria que me permita estar preparado para contribuir en diversos de contextos y proyectos.</p>
                     </div>
                 </SwiperSlide>             
