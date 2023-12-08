@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Pagina-De-Presentacion/static/css/main.23f390c6.css",
-    "main.js": "/Pagina-De-Presentacion/static/js/main.a3e24f26.js",
+    "main.js": "/Pagina-De-Presentacion/static/js/main.64a8fcc5.js",
     "static/js/787.32aec9ac.chunk.js": "/Pagina-De-Presentacion/static/js/787.32aec9ac.chunk.js",
     "static/media/DMSans-Italic-VariableFont_opsz,wght.ttf": "/Pagina-De-Presentacion/static/media/DMSans-Italic-VariableFont_opsz,wght.5d62d0b1d463691eba69.ttf",
     "static/media/DMSans-VariableFont_opsz,wght.ttf": "/Pagina-De-Presentacion/static/media/DMSans-VariableFont_opsz,wght.90130db6a4fc53f17a88.ttf",
@@ -9,13 +9,14 @@
     "static/media/CV - Muñoz González Daniel Aurelio.pdf": "/Pagina-De-Presentacion/static/media/CV - Muñoz González Daniel Aurelio.97191b2b76a9fd438ae5.pdf",
     "static/media/SIFONN_BASIC.otf": "/Pagina-De-Presentacion/static/media/SIFONN_BASIC.2abe78089e1342cf872c.otf",
     "static/media/resulta.svg": "/Pagina-De-Presentacion/static/media/resulta.061a9e8d92c3fdffef6d8dd81ce0a1d8.svg",
+    "static/media/privA.pem": "/Pagina-De-Presentacion/static/media/privA.8c344be890df33230009.pem",
     "index.html": "/Pagina-De-Presentacion/index.html",
     "main.23f390c6.css.map": "/Pagina-De-Presentacion/static/css/main.23f390c6.css.map",
-    "main.a3e24f26.js.map": "/Pagina-De-Presentacion/static/js/main.a3e24f26.js.map",
+    "main.64a8fcc5.js.map": "/Pagina-De-Presentacion/static/js/main.64a8fcc5.js.map",
     "787.32aec9ac.chunk.js.map": "/Pagina-De-Presentacion/static/js/787.32aec9ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23f390c6.css",
-    "static/js/main.a3e24f26.js"
+    "static/js/main.64a8fcc5.js"
   ]
 }
