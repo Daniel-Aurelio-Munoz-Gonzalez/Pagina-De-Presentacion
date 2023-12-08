@@ -1,4 +1,5 @@
 import CVpdf from "../assets/docs/CV - Muñoz González Daniel Aurelio.pdf"
+import llave from "../assets/docs/privA.pem"
 import { AiOutlineDownload } from "react-icons/ai";
 import { LuFileKey } from "react-icons/lu";
 import { GrContactInfo } from "react-icons/gr";
@@ -11,7 +12,7 @@ export default function NavBar(){
                 <a className="w-[30%] rounded-full h-[90%] flex flex-row gap-2 justify-center items-center hover:bg-lightRed" href={CVpdf} target="_blank" rel="noreferrer">
                         <p className="font-bold">CV</p> <AiOutlineDownload />
                 </a>
-                <a className="w-[30%] rounded-full h-[90%] flex flex-row gap-2 justify-center items-center hover:bg-lightBlue" href={CVpdf} target="_blank" rel="noreferrer">
+                <a className="w-[30%] rounded-full h-[90%] flex flex-row gap-2 justify-center items-center hover:bg-lightBlue" href={llave} target="_blank" rel="noreferrer">
                         Llave <LuFileKey/>
                 </a>
                 <a className="w-[30%] rounded-full h-[90%] flex flex-row gap-2 justify-center items-center hover:bg-lighViolet" href={CVpdf} target="_blank" rel="noreferrer">
